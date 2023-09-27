@@ -40,5 +40,9 @@ def exponentiate(base, power):
     return(base ** power)
 
 
+def integer_divide(a, b):
+    """Returns a / b, rounded down to the nearest integer"""
+    return(a // b)
+
 pi = 3.142
 e = 2.718

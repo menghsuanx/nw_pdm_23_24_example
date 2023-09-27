@@ -45,3 +45,7 @@ print(math_tools.multiply(1
                           , math_tools.exponentiate(math_tools.e
                                                     , math_tools.multiply(3
                                                                           , .06))))
+
+# How many full weeks are there in a year?
+print("How many full weeks are there in a year?")
+print(math_tools.integer_divide(365, 7))
