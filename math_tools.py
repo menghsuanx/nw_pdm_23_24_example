@@ -15,6 +15,7 @@ Classes:
 Functions:
     
     add(a, b) -> float
+    multiply(a, b) -> float
     exponentiate(base, power) -> float
 
 Misc variables:
